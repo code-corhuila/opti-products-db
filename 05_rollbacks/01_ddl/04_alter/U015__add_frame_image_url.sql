@@ -1,0 +1,1 @@
+ALTER TABLE IF EXISTS products.frame DROP COLUMN IF EXISTS image_url;

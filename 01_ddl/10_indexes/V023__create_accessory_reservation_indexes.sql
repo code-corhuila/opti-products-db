@@ -1,0 +1,1 @@
+CREATE INDEX idx_accessory_reservation_accessory ON products.accessory_reservation (accessory_id);
